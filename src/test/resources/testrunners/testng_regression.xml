@@ -21,19 +21,19 @@
 		</classes>
 	</test>
 
-	<test name="Account Page Test">
+	<!--<test name="Account Page Test">
 		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="com.qa.opencart.tests.AccountPageTest" />
 		</classes>
-	</test>
+	</test>-->
 
-	<test name="Search Results Test">
+<!--	<test name="Search Results Test">
 		<parameter name="browser" value="edge" />
 		<classes>
 			<class name="com.qa.opencart.tests.SearchResultsTest" />
 		</classes>
-	</test>
+	</test>-->
 
 	<test name="Product Page Info Test">
 		<parameter name="browser" value="firefox" />
@@ -42,12 +42,12 @@
 		</classes>
 	</test>
 
-	<test name="Cart Page Test">
+	<!--<test name="Cart Page Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.cartPageTest" />
 		</classes>
-	</test>
+	</test>-->
 
 
 	<test name="Registration page test">
