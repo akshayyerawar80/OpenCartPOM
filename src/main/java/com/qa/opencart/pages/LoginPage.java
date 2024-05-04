@@ -38,7 +38,7 @@ public class LoginPage {
 	
 	//3. Public page Action/ Method
 	
-	@Step("getting login page title")
+	@Step("get login page title")
 	
 	public String getLoginPageTitle() {
 
