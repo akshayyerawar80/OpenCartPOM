@@ -36,7 +36,7 @@
 	</test>-->
 
 	<test name="Product Page Info Test">
-		<parameter name="browser" value="firefox" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.ProductPageInfoTest" />
 		</classes>
@@ -51,7 +51,7 @@
 
 
 	<test name="Registration page test">
-		<parameter name="browser" value="edge" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.RegisterationPageTest" />
 		</classes>
